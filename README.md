@@ -50,10 +50,10 @@ All problems are stored in `problems.txt` in this format:
 
 ## ✅ How to Run
 
-1. Compile the program using g++ or any C++ compiler:
+1. Compile and Run the program using g++ or any C++ compiler:
    ```bash
    g++ main.cpp -o tracker
-  ./tracker
+   ./tracker
 
 ---
 
